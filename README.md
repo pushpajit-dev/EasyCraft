@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Easy Craft — Complete User App & Admin Panel Solution
+# 🎨 Easy Craft
 
 <img src="https://i.imgur.com/jG2MblH.jpeg" alt="Easy Craft Banner Thumbnail" width="100%" style="border-radius: 12px; max-width: 900px;" />
 
