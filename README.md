@@ -22,7 +22,7 @@
 
 Looking for the complete project files, source code, database configuration, and setup documentation? You can purchase and download the official package directly from our Gumroad store:
 
-👉 **[Buy Easy Craft Full Project on Gumroad](https://pushpajit.gumroad.com/l/duzbn)**
+👉 **[Gumroad](https://pushpajit.gumroad.com/l/duzbn)**
 
 ---
 
@@ -129,4 +129,4 @@ The **Easy Craft Admin Panel** gives you complete control over the application's
 Ready to launch your own app with the **Easy Craft** project files? 
 
 * 🛍️ **Instant Download & Purchase:** [https://pushpajit.gumroad.com/l/duzbn](https://pushpajit.gumroad.com/l/duzbn)
-* 💬 **Need Customization or Support?** Reach out via the contact option on our Gumroad product page after checking out the demo!
+* 💬 **Need Customization or Support?** Reach out via email - noishixzen@gmail.com on our Gumroad product page after checking out the demo!
